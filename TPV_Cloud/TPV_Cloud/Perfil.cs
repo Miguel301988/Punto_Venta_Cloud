@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace TPV_Cloud
 {
-    public partial class Form2 : Form
+    public partial class Perfil : Form
     {
-        public Form2()
+        public Perfil()
         {
             InitializeComponent();
         }
