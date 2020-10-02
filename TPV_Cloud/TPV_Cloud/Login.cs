@@ -20,7 +20,7 @@ namespace TPV_Cloud
 
         private void BtnContinuar_Click(object sender, EventArgs e)
         {
-            System.Windows.Forms.Menu objMenu = new Menu();
+            Menu objMenu = new Menu();
             objMenu.Show();
             this.Hide();
         }
